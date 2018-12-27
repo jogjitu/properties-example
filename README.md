@@ -1,2 +1,0 @@
-# properties-example
-properties-example

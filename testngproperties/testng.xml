@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<suite name="example-property">
+    <test name="testFactory">
+        <parameter name="environment"  value=""/>
+        <classes>
+            <class name="PropertyTest" />
+        </classes>
+    </test>
+
+</suite>
